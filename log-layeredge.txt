@@ -278,3 +278,8 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [23:12:08 | 25-02-2025] ✅ Node started for 0x46F796cE4426e43769B974e816c0316ffA83D4D7
+[03:10:53 | 26-02-2025] Wallet Address: 0x46F796cE4426e43769B974e816c0316ffA83D4D7
+[03:10:53 | 26-02-2025] Node Points: 186241
+[03:10:53 | 26-02-2025] Last Claim Point: 24/02/2025 08:13:45
+[03:10:54 | 26-02-2025] ✅ Points claimed for 0x46F796cE4426e43769B974e816c0316ffA83D4D7
+[03:10:55 | 26-02-2025] 🚨 Failed to start node for 0x46F796cE4426e43769B974e816c0316ffA83D4D7: [object Object]
