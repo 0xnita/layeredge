@@ -919,3 +919,18 @@
 [23:10:08 | 29-03-2025] Wallet Address: 0x46F796cE4426e43769B974e816c0316ffA83D4D7
 [23:10:08 | 29-03-2025] Node Points: 971308
 [23:10:08 | 29-03-2025] Last Claim Point: 28/03/2025 16:12:11
+[03:09:46 | 30-03-2025] Wallet Address: 0x46F796cE4426e43769B974e816c0316ffA83D4D7
+[03:09:46 | 30-03-2025] Node Points: 971308
+[03:09:46 | 30-03-2025] Last Claim Point: 28/03/2025 16:12:11
+[03:09:47 | 30-03-2025] ✅ Points claimed for 0x46F796cE4426e43769B974e816c0316ffA83D4D7
+[03:09:47 | 30-03-2025] 🚨 Failed to start node for 0x46F796cE4426e43769B974e816c0316ffA83D4D7: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /api/light-node/node-action/0x46F796cE4426e43769B974e816c0316ffA83D4D7/start</pre>
+</body>
+</html>
+
